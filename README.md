@@ -28,7 +28,7 @@ O foco principal foi aplicar os fundamentos da Programação Orientada a Objetos
 ## 📋 Como Executar
 1. Certifique-se de ter o Java (JDK) instalado.
 2. Baixe a pasta `src` deste repositório.
-3. Abra no IntelliJ IDEA.
+3. Abra no IntelliJ IDEA ou na IDE de sua preferência.
 4. Execute o arquivo `InterfaceSistema.java` para abrir a interface visual.
 
 ---
