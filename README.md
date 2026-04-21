@@ -3,6 +3,8 @@
 Este projeto é uma solução computacional desenvolvida em **Java** para a gestão de usuários e projetos. 
 O software foi criado como parte das atividades práticas do 1º semestre de 2026.
 
+![Demonstração do LogicTree](logic_tree.gif)
+
 ## 🎓 Informações Acadêmicas
 - **Instituição:** Centro Universitário Una
 - **Curso:** Tecnologia em Inteligência Artificial
